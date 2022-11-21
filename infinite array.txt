@@ -1,0 +1,4 @@
+1.create new empty array
+2.loop the array
+3.if it is number push in new array
+3.if it is array loop it and push in new array
